@@ -1,7 +1,7 @@
 name: papai_flutter_auto_complete
-description: A new Flutter package project.
+description: Auto-complete with fuzzy search.
 version: 0.0.1
-homepage:
+homepage: https://github.com/Papai-hospital/flutter-auto-complete
 
 environment:
   sdk: ">=3.0.2 <4.0.0"
